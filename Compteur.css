@@ -1,0 +1,116 @@
+
+.info {
+    font-family: monospace;
+    position: cover;
+ 
+  }
+#text {
+  font-family: "Amatic SC";
+  color:black;
+}
+
+h1 {
+    padding: auto;
+    color: white;
+    font-family: "Zombie Holocaust";
+    font-size: 82px;
+    letter-spacing: 16px;
+    text-shadow: 0.1em 0.1em 0.1em orange;
+}
+
+#save {
+  font-family: "Amatic SC";
+  font-size: 30px;
+  color:rgb(223, 43, 43);
+}
+
+#save-button {
+  border-radius: 23px;
+  padding: 22px;
+}
+
+#load {
+  font-family: "Amatic SC";
+  font-size: 30px;
+  color:rgb(223, 43, 43);
+}
+
+#load-button {
+  border-radius: 23px;
+  padding: 22px;
+  margin: 30px;
+}
+
+button {
+  background-color: orange;
+  border: none;
+}
+
+.container-fluid {
+  background-color: black;
+}
+  
+h2 {
+  font-family: "Zombie Holocaust";
+  color: white;
+  text-shadow: 0.1em 0.1em 0.1em orange ;
+  margin-bottom: 23px;
+}
+
+
+
+.text {
+  font-family: 'Open Sans', sans-serif;
+}
+
+input {
+  color: rgb(223, 43, 43);
+}
+
+.element-1 {
+  background-color: orange;
+  border-radius: 23px;
+  text-align: center;
+}
+
+.element-2 {
+  background-color: orange;
+  border-radius: 23px;
+  text-align: center;
+}
+
+.element-3 {
+  background-color:orange;
+  border-radius: 23px;
+  text-align: center;
+}
+
+
+p {
+  font-family: "Amatic SC";
+  color:black;
+  text-shadow: 0.1em 0.1em 0.1em orange ;
+  letter-spacing: 5px;
+  font-size: 20px;
+}
+
+#cookiespersecond {
+  padding-top: auto;
+  font-family: "Amatic SC";
+  font-size: 30px;
+  padding: auto;
+  letter-spacing: 5px;
+  color: white;
+  text-shadow: 0.1em 0.1em 0.1em orange ;
+}
+
+#Got {
+  font-family: "Zombie Holocaust";
+  font-size: 40px;
+  padding: auto;
+  letter-spacing: 5px;
+  color: white;
+  text-shadow: 0.1em 0.1em 0.1em orange ;
+}
+  
+  
