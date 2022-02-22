@@ -1,5 +1,6 @@
 # The Cookie Horror SHow
 
+![Alt text](./Pictures/Capture d’écran (140).png)
 # Here is my personal interpretation of the famous Cookie Cliker Game
 
 
@@ -32,5 +33,5 @@ Enjoy the game!
 ## IT-Languages used
  HTML, CSS and JavaScript
 
-## The game is online [here](myLib/README.md)
+## The game is online [here](https://morganefanon.github.io/The-Cookie-Horror-Show/)
 
